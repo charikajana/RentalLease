@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="481882" started-at="2021-05-26T15:38:10 IST" finished-at="2021-05-26T15:46:12 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="CustomizeTestNGCucumberRunner.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="runScenario" class="com.cars24.testrunnerfiles.CustomizeTestNGCucumberRunner"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="481882" started-at="2021-05-26T15:38:10 IST" finished-at="2021-05-26T15:46:12 IST">
+      <class name="com.cars24.testrunnerfiles.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="setUpClass" is-config="true" duration-ms="500" started-at="2021-05-26T15:38:10 IST" finished-at="2021-05-26T15:38:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="runScenario" duration-ms="54280" started-at="2021-05-26T15:38:11 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-26T15:39:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify user able to login successfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify BecomeOur Partner feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="runScenario" duration-ms="38691" started-at="2021-05-26T15:39:05 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-26T15:39:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify user able to login successfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify BecomeOur Partner feature 2nd Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="runScenario" duration-ms="53936" started-at="2021-05-26T15:39:44 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-26T15:40:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify user able to login successfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify BecomeOur Partner feature 3rd Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="runScenario" duration-ms="58485" started-at="2021-05-26T15:40:38 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-26T15:41:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify user able to login successfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify BecomeOur Partner feature 4th Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="runScenario" duration-ms="108960" started-at="2021-05-26T15:41:36 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-26T15:43:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify user able to login successfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the RC Status]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="runScenario" duration-ms="55045" started-at="2021-05-26T15:43:25 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-26T15:44:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify user able to login successfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the RC Status secondFeature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="runScenario" duration-ms="53304" started-at="2021-05-26T15:44:20 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-26T15:45:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify user able to login successfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the RC Status 3rd Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="runScenario" duration-ms="52890" started-at="2021-05-26T15:45:14 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2021-05-26T15:46:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Verify user able to login successfully"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the RC Status 4th Feature]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.cars24.testrunnerfiles.TestRunner@cb51256]" name="tearDownClass" is-config="true" duration-ms="5751" started-at="2021-05-26T15:46:07 IST" finished-at="2021-05-26T15:46:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.cars24.testrunnerfiles.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
